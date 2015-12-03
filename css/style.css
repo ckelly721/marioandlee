@@ -1,35 +1,52 @@
 body{
 background-image:url("https://s-media-cache-ak0.pinimg.com/originals/ae/34/6a/ae346a5526bc0ba554c9f4ed7a246f65.png");
 margin:0px auto;
-width:900px;
+width:1200px;
 color:white;
+}
+
+h1{
+  font-size:32px;
 }
 
 .content{
   background-color:black;
   color:white;
-  width:700px;
+  width:900px;
   margin:0px auto;
 }
 
 .nav{
   display:block;
   padding:4px;
-  float:left;
 
 }
 
 ul{
   list-style:none;
   padding:5px;
+}
+
+li{
+  float:left;
   border-style:solid;
+  padding:10px;
+  font-size:16px;
+  font-family:"Georgia", serif;
 }
 
 .connect{
-  float:right;
+  float:left;
 }
 
-footer{
-  background-color:black;
-  width:700px;
+.connect ul{
+  list-style:none;
+}
+
+.connect ul li{
+  float:left;
+}
+
+.bottom{
+  
 }
