@@ -1,7 +1,26 @@
 body{
-background-color:grey;
+background-color:gray;
+margin:0px auto;
+width:900px;
 }
 
 nav{
+  width:700px;
+  margin:0px auto;
+  display:block;
+  padding:4px;
 
+}
+
+ul{
+  list-style:none;
+  padding:5px;
+}
+
+.connect{
+  float:right;
+}
+
+footer{
+  width:700px;
 }
