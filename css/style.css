@@ -6,7 +6,7 @@ color:white;
 }
 
 h1{
-  font-size:30%;
+  font-size:30px;
   text-align:center;
 }
 
@@ -26,7 +26,7 @@ h1{
 .nav{
   display:block;
   padding:4px;
-  width:900px;
+  width:90%;
 
 }
 
@@ -41,6 +41,7 @@ li{
   padding:10px;
   font-size:16px;
   font-family:"Georgia", serif;
+  text-align:center;
 }
 
 .slideshow{
@@ -53,15 +54,11 @@ li{
 }
 
 .connect{
-  float:left;
+  float:right;
 }
 
 .connect ul{
   list-style:none;
-}
-
-.connect ul li{
-  float:left;
 }
 
 .bottom{
