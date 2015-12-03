@@ -1,25 +1,28 @@
 body{
-background-image:url("https://s-media-cache-ak0.pinimg.com/originals/de/3e/27/de3e2721443b4a8fe79227d816c4b987.png");
+background-image:url("https://s-media-cache-ak0.pinimg.com/originals/ae/34/6a/ae346a5526bc0ba554c9f4ed7a246f65.png");
 margin:0px auto;
 width:900px;
+color:white;
 }
 
 .content{
-  background-color:gray;
+  background-color:black;
   color:white;
-}
-
-nav{
   width:700px;
   margin:0px auto;
+}
+
+.nav{
   display:block;
   padding:4px;
+  float:left;
 
 }
 
 ul{
   list-style:none;
   padding:5px;
+  border-style:solid;
 }
 
 .connect{
@@ -27,6 +30,6 @@ ul{
 }
 
 footer{
-  background-color:gray;
+  background-color:black;
   width:700px;
 }
