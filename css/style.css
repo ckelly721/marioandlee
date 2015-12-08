@@ -1,8 +1,8 @@
 body{
-background-image:url("https://s-media-cache-ak0.pinimg.com/originals/ae/34/6a/ae346a5526bc0ba554c9f4ed7a246f65.png");
+background-image:url("https://s-media-cache-ak0.pinimg.com/originals/b2/8c/7a/b28c7af0efc2ab56537724af8fd54f4b.png");
 margin:0px auto;
 width:1200px;
-color:white;
+color:black;
 }
 
 h1{
@@ -11,7 +11,7 @@ h1{
 }
 
 .content{
-  background-color:black;
+  background-color:white;
   color:white;
   width:900px;
   margin:1px auto;
